@@ -7,5 +7,6 @@ Consequently LSTM algorithm predicted Bitcoin Close prices better than we expect
 
 
 
+![Screenshot from 2024-06-13 15-59-23](https://github.com/Mohammad-Moiz/BitCoin-Price-Predictor-App/assets/127727314/11c4c8b9-d99e-4d7b-aa61-ff11c39335e5)
 
 
